@@ -1,16 +1,23 @@
 # class-spring2024-pd5
 
 ## Our Class Repos:
+- [Abel R](https://github.com/On1yTwentyCharacters/AP-CSA-Work/tree/main)
 - [Adrian C](https://github.com/Adrian-Chin/2024-APCSA)
 - [Alina M](https://github.com/maitmeet/apcsa2024-mp3/tree/main)
 - [Andria G](https://github.com/QuantumXQuasar/AP-CSA-mp3-work)
+- [Annie L](https://github.com/Ani-liu/CSA-mp3-work)
 - [Atai K](https://github.com/atai20/CSA-2024)
 - [BrianR309 ](https://github.com/BrianR309/csamp-3 )
+- [Fiona L](https://github.com/Liwx07/Mpd3-work/tree/main)
 - [Junwen S](https://github.com/junwen9/csa-mp3/tree/main/fr-solutions)
 - [katoiyia w](https://github.com/katoiyia/csa_mp3)
+- [Kevin L](https://github.com/link-05/APCSA_MP3)
 - [Leomar V](https://github.com/kriskurry/csa-mp3-pd5)
 - [Lin Z](https://github.com/LZ12344/Csa-M3/tree/main/Ap%20csa%202024%20FRQ%20solutions )
 - [Lorenzo m](https://github.com/Lorenzom30/period-5-CSA)
+- [Mehyar S](https://github.com/Mehyar-S/csa-mp3-work)
+- [Meilin L](https://github.com/Lix08/CSA-MP3-Pd5)
+- [Misael R](https://github.com/Yay-Puffles/csa-mp3-pd5)
 - [Shohruh ](https://github.com/Shohruh-R/csa-mp3-)
 - [Vasyl D](https://github.com/VasylDorofeev/CSA-MP3)
 - [William Z](https://github.com/wz0609/CSA-MP3-P5-WILLIAM)
