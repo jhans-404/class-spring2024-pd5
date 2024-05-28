@@ -19,12 +19,18 @@
 |[Lorenzo m](https://github.com/Lorenzom30/period-5-CSA)|[My Site](https://Lorenzom30.github.io)|
 |[Max W](https://github.com/OPEXPAX/csa)|[My Site](https://OPEXPAX.github.io)|
 |[Mehyar S](https://github.com/Mehyar-S/csa-mp3-work)|[My Site](https://Mehyar-S.github.io)|
+|[Meijie ](https://github.com/Meijiec/3)|[My Site](https://Meijiec.github.io)|
 |[Meilin L](https://github.com/Lix08/CSA-MP3-Pd5)|[My Site](https://Lix08.github.io)|
 |[Misael R](https://github.com/Yay-Puffles/csa-mp3-pd5)|[My Site](https://Yay-Puffles.github.io)|
 |[Shohruh ](https://github.com/Shohruh-R/csa-mp3-)|[My Site](https://Shohruh-R.github.io)|
 |[Vasyl D](https://github.com/VasylDorofeev/CSA-MP3)|[My Site](https://VasylDorofeev.github.io)|
 |[William Z](https://github.com/wz0609/CSA-MP3-P5-WILLIAM)|[My Site](https://wz0609.github.io)|
 |[Xinghua L](https://github.com/xinghual3/csa-mp3-pd5)|[My Site](https://xinghual3.github.io)|
+|[Xuxuan H](https://github.com/xuxuanh/csa-mp3)|[My Site](https://xuxuanh.github.io)|
+|[Yuanyi W](https://github.com/Caoife1/csa.mp3)|[My Site](https://Caoife1.github.io)|
+|[Ze Q](https://github.com/PlayerZQC/AP-CSA-Work)|[My Site](https://PlayerZQC.github.io)|
+|[Ze Q](PlayerZQC.github.io)|[My Site](https://PlayerZQC.github.io)|
+|[zhiheng c](https://github.com/zhihengc5/csa.mp3)|[My Site](https://zhihengc5.github.io)|.com/xinghual3/csa-mp3-pd5)|[My Site](https://xinghual3.github.io)|
 |[Xuxuan H](https://github.com/xuxuanh/csa-mp3)|[My Site](https://xuxuanh.github.io)|
 |[Yuanyi W](https://github.com/Caoife1/csa.mp3)|[My Site](https://Caoife1.github.io)|
 |[Ze Q](https://github.com/PlayerZQC/AP-CSA-Work)|[My Site](https://PlayerZQC.github.io)|
