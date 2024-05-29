@@ -29,9 +29,4 @@
 |[Xuxuan H](https://github.com/xuxuanh/csa-mp3)|[My Site](https://xuxuanh.github.io)|
 |[Yuanyi W](https://github.com/Caoife1/csa.mp3)|[My Site](https://Caoife1.github.io)|
 |[Ze Q](https://github.com/PlayerZQC/AP-CSA-Work)|[My Site](https://PlayerZQC.github.io)|
-|[Ze Q](PlayerZQC.github.io)|[My Site](https://PlayerZQC.github.io)|
-|[zhiheng c](https://github.com/zhihengc5/csa.mp3)|[My Site](https://zhihengc5.github.io)|.com/xinghual3/csa-mp3-pd5)|[My Site](https://xinghual3.github.io)|
-|[Xuxuan H](https://github.com/xuxuanh/csa-mp3)|[My Site](https://xuxuanh.github.io)|
-|[Yuanyi W](https://github.com/Caoife1/csa.mp3)|[My Site](https://Caoife1.github.io)|
-|[Ze Q](https://github.com/PlayerZQC/AP-CSA-Work)|[My Site](https://PlayerZQC.github.io)|
 |[zhiheng c](https://github.com/zhihengc5/csa.mp3)|[My Site](https://zhihengc5.github.io)|
