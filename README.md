@@ -9,7 +9,7 @@
 |[Andria G](https://github.com/QuantumXQuasar/AP-CSA-mp3-work)|[My Site](https://QuantumXQuasar.github.io)|
 |[Annie L](https://github.com/Ani-liu/CSA-mp3-work)|[My Site](https://Ani-liu.github.io)|
 |[Atai K](https://github.com/atai20/CSA-2024)|[My Site](https://atai20.github.io)|
-|[BrianR309 ](https://github.com/BrianR309/csamp-3 )|[My Site](https://BrianR309.github.io)|
+|[Brian R](https://github.com/BrianR309/csamp-3 )|[My Site](https://BrianR309.github.io)|
 |[Fiona L](https://github.com/Liwx07/Mpd3-work/tree/main)|[My Site](https://Liwx07.github.io)|
 |[Junwen S](https://github.com/junwen9/csa-mp3/tree/main/fr-solutions)|[My Site](https://junwen9.github.io)|
 |[katoiyia w](https://github.com/katoiyia/csa_mp3)|[My Site](https://katoiyia.github.io)|
@@ -23,10 +23,13 @@
 |[Meilin L](https://github.com/Lix08/CSA-MP3-Pd5)|[My Site](https://Lix08.github.io)|
 |[Misael R](https://github.com/Yay-Puffles/csa-mp3-pd5)|[My Site](https://Yay-Puffles.github.io)|
 |[Shohruh ](https://github.com/Shohruh-R/csa-mp3-)|[My Site](https://Shohruh-R.github.io)|
+|[Umar H](https://github.com/Umrh7/CSA-mp3-Frq)|[My Site](https://Umrh7.github.io)|
 |[Vasyl D](https://github.com/VasylDorofeev/CSA-MP3)|[My Site](https://VasylDorofeev.github.io)|
 |[William Z](https://github.com/wz0609/CSA-MP3-P5-WILLIAM)|[My Site](https://wz0609.github.io)|
+|[Umar H](https://github.com/Umrh7)|[My Site](https://Umrh7.github.io)|
 |[Xinghua L](https://github.com/xinghual3/csa-mp3-pd5)|[My Site](https://xinghual3.github.io)|
 |[Xuxuan H](https://github.com/xuxuanh/csa-mp3)|[My Site](https://xuxuanh.github.io)|
 |[Yuanyi W](https://github.com/Caoife1/csa.mp3)|[My Site](https://Caoife1.github.io)|
 |[Ze Q](https://github.com/PlayerZQC/AP-CSA-Work)|[My Site](https://PlayerZQC.github.io)|
+|[Ze Q](PlayerZQC.github.io)|[My Site](https://PlayerZQC.github.io)|
 |[zhiheng c](https://github.com/zhihengc5/csa.mp3)|[My Site](https://zhihengc5.github.io)|
